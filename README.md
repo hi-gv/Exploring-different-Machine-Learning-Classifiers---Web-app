@@ -1,4 +1,4 @@
-# Exploring different Machine Learning Classifiers - Web App
+# Exploring different Machine Learning Classifiers - Web App using STREAMLIT | Python
 
 Using 'Streamlit' library, a web app is created to explore 3 different Classification algorithms - KNN, SVM & Random Forest with 'SKlearn' package.
 User can tweak the main parameters and check the shape & accuracy of the classification models in real time on the 
